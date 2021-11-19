@@ -1,0 +1,30 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+html, body {
+    background-color: #434142;
+    height:60%;
+    width:100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0.7in;
+    margin-bottom: 0.3in;
+    color: #ffd35a;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+    font-size: 92px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+canvas {
+    height:100%;
+    position:fixed;
+    width:100%;
+    alignment: top;
+}
